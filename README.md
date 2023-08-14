@@ -48,7 +48,7 @@ Es un versionador de documentos de texto, permite almacenar camvios, revisar ver
 ### Linux
 Si de verdad a alguien le interesa trabajar en linux me avisa, pero de momento dejo el enlace a un repo donde está resumida la instalación de la mayoría de cosas.
 
-Este [repo](https://github.com/fegonzalez7/rob_unal_clase2) tiene una guía exhuastiva de la isntalación de Linux, de las herramientas útiles, y de los comandos básicos. Sería cool darle un vistazo.
+Este [repo](https://github.com/fegonzalez7/rob_unal_clase2) tiene una guía exhuastiva de la instalación de Linux, de las herramientas útiles, y de los comandos básicos. Sería cool darle un vistazo.
 
 -----------
 ## Reto no. 2
